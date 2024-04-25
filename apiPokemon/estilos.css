@@ -1,0 +1,77 @@
+img{
+    background-color: white;
+    border-style: double;
+    border-radius: 0.5em;
+    height: 40%;
+    left: 2.5em;
+    position: absolute;
+    top:2.5em;
+    width: 80%;
+}
+
+#buscar{
+    background-color: blue;
+    border-radius: 0.5em;
+    color: white;
+    height: 2.5em;
+    left:2.8em;
+    position: absolute;
+    top:29em;
+    width: 24.5em;
+}
+
+#contenedor{
+    background-color:#ff3333;
+    border-style: double;
+    border-radius: 1em;
+    height: 38em;
+    left:35em;
+    position: relative;
+    width: 25em;
+}
+
+#habilidades{
+    border-radius: 0.5em;
+    border-style: double;
+    height: 4%;
+    left:2.8em;
+    margin-top: 37em;
+    position: absolute;
+    width: 24em;
+}
+
+#nombre{
+    border-radius: 0.5em;
+    border-style: double;
+    height: 4%;
+    left:2.8em;
+    margin-top: 33em;
+    position: absolute;
+    width: 24em;
+}
+
+#poderes{
+    border-radius: 0.5em;
+    border-style: double;
+    height: 4%;
+    left:2.8em;
+    margin-top: 41em;
+    position: absolute;
+    width:24em;
+}
+
+#nombrePokemon{
+    background-color: darkgrey;
+    border-radius: 0.5em;
+    border-style: double;
+    height: 5%;
+    left:2.8em;
+    position: absolute;
+    text-align: center;
+    top:24em;
+    width: 24em;
+}
+
+::placeholder{
+    color:white;
+}
